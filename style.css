@@ -108,10 +108,10 @@ h2 {
   justify-content: space-between;
   align-items: center;
   gap: 20px;
+  cursor: pointer;
 }
 .question-title:hover h2,
 img {
-  cursor: pointer;
   color: rgb(190, 38, 250);
 }
 
