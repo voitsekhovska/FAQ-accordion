@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-challenge](https://www.frontendmentor.io/solutions/faq-accordion-challenge-VfCNH519WY)
 - Live Site URL: [https://voitsekhovska.github.io/FAQ-accordion](https://voitsekhovska.github.io/FAQ-accordion/)
 
 ## My process
